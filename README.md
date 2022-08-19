@@ -1,6 +1,6 @@
 # Sobre mim 👋
 - :memo: Sou estudante do 1 ano do novo ensino médio
 - :computer: Estou aprendendo a programar recentemente no JavaScript e Scratch
-- :notebook: E estou disposta a sempre prender mais
+- :notebook: E estou disposta sempre a prender mais
 
 
